@@ -1,4 +1,5 @@
 Aluna: Giulia Duarte - 22152030
+
 Respostas dos itens (a), (b), (c), (d) e (e) da 1ª questão estão no PDF anexado.
 
 2ª Questão (Implementação)
